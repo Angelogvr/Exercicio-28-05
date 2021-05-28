@@ -1,0 +1,16 @@
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios para entrega\Exercícios de Classe - 26-05\Ex2\bin\Debug\net5.0\Ex2.exe
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios para entrega\Exercícios de Classe - 26-05\Ex2\bin\Debug\net5.0\Ex2.deps.json
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios para entrega\Exercícios de Classe - 26-05\Ex2\bin\Debug\net5.0\Ex2.runtimeconfig.json
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios para entrega\Exercícios de Classe - 26-05\Ex2\bin\Debug\net5.0\Ex2.runtimeconfig.dev.json
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios para entrega\Exercícios de Classe - 26-05\Ex2\bin\Debug\net5.0\Ex2.dll
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios para entrega\Exercícios de Classe - 26-05\Ex2\bin\Debug\net5.0\ref\Ex2.dll
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios para entrega\Exercícios de Classe - 26-05\Ex2\bin\Debug\net5.0\Ex2.pdb
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios para entrega\Exercícios de Classe - 26-05\Ex2\obj\Debug\net5.0\Ex2.csprojAssemblyReference.cache
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios para entrega\Exercícios de Classe - 26-05\Ex2\obj\Debug\net5.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios para entrega\Exercícios de Classe - 26-05\Ex2\obj\Debug\net5.0\Ex2.AssemblyInfoInputs.cache
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios para entrega\Exercícios de Classe - 26-05\Ex2\obj\Debug\net5.0\Ex2.AssemblyInfo.cs
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios para entrega\Exercícios de Classe - 26-05\Ex2\obj\Debug\net5.0\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios para entrega\Exercícios de Classe - 26-05\Ex2\obj\Debug\net5.0\Ex2.dll
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios para entrega\Exercícios de Classe - 26-05\Ex2\obj\Debug\net5.0\ref\Ex2.dll
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios para entrega\Exercícios de Classe - 26-05\Ex2\obj\Debug\net5.0\Ex2.pdb
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercícios para entrega\Exercícios de Classe - 26-05\Ex2\obj\Debug\net5.0\Ex2.genruntimeconfig.cache
